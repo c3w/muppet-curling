@@ -4,6 +4,16 @@
 
 *codetest* **in puppet**
 
+*TIMESPENT < 6hrs*
+
+* [https://github.com/c3w/muppet-curling](https://github.com/c3w/muppet-curling)
+
+{modules}
+
+* [https://github.com/c3w/muppet](https://github.com/c3w/muppe)
+
+
+
 ### purpose
 ordered and templatized image and soundfile download, with a creates=>receipt
 
@@ -15,6 +25,7 @@ ordered and templatized image and soundfile download, with a creates=>receipt
 * git-flow workflow / pull-requests
 * namespacing
 * gitignore
+* documentation
 
 ### to run
 librarian-puppet install
