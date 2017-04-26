@@ -1,4 +1,4 @@
-#muppet curling
+# muppet curling
 
 ![_animal](https://raw.githubusercontent.com/c3w/muppet-curling/master/_animal.png)
 
