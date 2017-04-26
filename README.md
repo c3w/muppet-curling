@@ -10,7 +10,7 @@
 
 {modules}
 
-* [https://github.com/c3w/muppet](https://github.com/c3w/muppe)
+* [https://github.com/c3w/muppet](https://github.com/c3w/muppet)
 
 
 
