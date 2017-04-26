@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/c3w/mc-muppet
+  ref: master
+  sha: 150a472c1145dee6ecf25c41b435517fd1b23915
+  specs:
+    c3w-muppet (0.0.1)
+
+DEPENDENCIES
+  c3w-muppet (>= 0)
+

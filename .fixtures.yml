@@ -1,0 +1,5 @@
+fixtures:
+  repositories:
+    muppet:
+      repo: "git://github.com/c3w/mc-muppet"
+      ref: "master"

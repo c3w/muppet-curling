@@ -8,11 +8,16 @@
 ordered and templatized image and soundfile download, with a creates=>receipt
 
 ### notes (of note)
-*coding style
-*idempotent
-*git-flow workflow
+* coding style
+* idempotent
+* rspec full test coverage
+* modular
+* git-flow workflow / pull-requests
+* namespacing
+* gitignore
 
 ### to run
+librarian-puppet install
 puppet apply --modulepath=./modules manifests/site.pp
 
 ### ps
