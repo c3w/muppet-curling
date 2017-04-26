@@ -64,6 +64,13 @@ Notice: /Stage[main]/Muppet/Exec[timezone_mp3]: Triggered 'refresh' from 1 event
 
 :)
 
+### tdd
+`$ cd modules/muppet`
+`$ rake spec`
+
+2 examples, 0 failures
+
+
 ### ps
 i committed directly to master a few times.. sry! won't happen again :P
 
