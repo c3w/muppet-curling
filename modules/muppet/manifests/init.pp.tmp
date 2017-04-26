@@ -24,8 +24,8 @@ class muppet inherits muppet::params {
  // on notify from image download, (if receipt doesn't exist), download soundfile
  exec { "${basename}_${sound_extension}":
   cwd         => "/usr/bin",
-  command     => "curl ${base_url}/${basename}.${sound_extension} " \
-                   "-o ${tmpdir}/${basename}.${sound_extension}",
+  command     => "curl ${base_url}/${basename}.${sound_extension} \
+                   -o ${tmpdir}/${basename}.${sound_extension}" ,
   refreshonly => true
 }
 
