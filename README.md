@@ -64,8 +64,9 @@ Notice: /Stage[main]/Muppet/Exec[timezone_mp3]: Triggered 'refresh' from 1 event
 
 :)
 
-### tdd
+### test-driven-development (tdd)
 `$ cd modules/muppet`
+
 `$ rake spec`
 
 2 examples, 0 failures
